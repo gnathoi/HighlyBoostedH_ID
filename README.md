@@ -6,14 +6,14 @@ This thesis presents the development and implementation of two innovative jet ta
 
 ## Algorithms
 
-### Deep Neural Network (DNN) Based Tagger
+### Deep Neural Network (DNN) Jet Tagger
 
 - **Performance**: Comparable to existing algorithms designed for highly boosted Z → e+e− decays.
 - **Features**:
   - Multifunctional, effective in also identifying Z → e+e− decays.
   - High classification rates, comparable to [another DNN jet tagging algorithm](https://cds.cern.ch/record/2845238) for highly boosted heavy bosons
 
-### Adversarial Neural Network (ANN) Based Tagger
+### Adversarial Neural Network (ANN) Jet Tagger
 
 - **Architecture**: Utilizes an Adversarial Neural Network for mass-decorrelated classification.
 - **Noteable results**:
