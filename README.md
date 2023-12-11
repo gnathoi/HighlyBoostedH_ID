@@ -1,4 +1,4 @@
-# [Identification of highly boosted H → γγ decays with the ATLAS detector using deep neural networks](https://cds.cern.ch/record/2878576?ln=en)
+# Identification of highly boosted H → γγ decays with the ATLAS detector using deep neural networks
 
 ## Overview
 
@@ -21,6 +21,8 @@ This thesis presents the development and implementation of two innovative jet ta
   - Also functional as a dual-use jet tagger.
   - Achieves a 27.8% reduction in mutual information between the mass feature and scalar discriminant metric.
   - Demonstrates enhanced rejection rates for background (τ)τ-jets.
+
+## Read the thesis on the [CERN document server.](https://cds.cern.ch/record/2878576?ln=en)
 
 ```
 @thesis{Hey:2878576,
