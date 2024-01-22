@@ -2,7 +2,7 @@
 
 ## Overview
 
-This thesis presents the development and implementation of two innovative jet tagging algorithms designed for the identification of highly boosted H → γγ decays using the ATLAS detector at the Large Hadron Collider (LHC). These algorithms leverage advanced neural network architectures to enhance the identification process. The code for this work is contained in this repository.
+This thesis presents the development and implementation of two innovative jet tagging algorithms designed for the identification of highly boosted H → γγ decays using the ATLAS detector at the Large Hadron Collider (LHC). These algorithms leverage two neural network architectures to enhance the identification process. The code for this work is contained in this repository.
 
 ## Algorithms
 
